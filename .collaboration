@@ -107,16 +107,7 @@
   },
   {
     "ModuleName": "PCPage/간트차트페이지",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "DESKTOP-SFEU14D\\NamHee",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2023-03-07T15:43:49.7603376+09:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\간트차트페이지.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/작업추가페이지",
