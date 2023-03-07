@@ -123,7 +123,17 @@
   },
   {
     "ModuleName": "ApplicationSetting",
-    "ModuleType": 8
+    "State": 1,
+    "LockedBy": {
+      "UserName": "LAPTOP-K6S99HCL\\hdg89",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2023-03-07T14:23:36.7842607+09:00",
+    "ModuleType": 8,
+    "ToRemoveFiles": [
+      "ApplicationSettings",
+      "favicon.ico"
+    ]
   },
   {
     "ModuleName": "Theme",
