@@ -4,17 +4,17 @@
 }
 @font-face {
     font-family: "나눔스퀘어 네오 OTF Regular";
-    src: url("UserFile/NanumSquareNeoOTF-aLt.otf");
+    src: url(NanumSquareNeoOTF-aLt.otf");
 }
 @font-face {
     font-family: "나눔스퀘어 네오 OTF ExtraBold";
-    src: url("UserFile/NanumSquareNeoOTF-aLt.otf");
+    src: url("NanumSquareNeoOTF-aLt.otf");
 }
 @font-face {
     font-family: "나눔스퀘어 네오 OTF Bold";
-    src: url("UserFile/NanumSquareNeoOTF-aLt.otf");
+    src: url("NanumSquareNeoOTF-aLt.otf");
 }
 @font-face {
     font-family: "나눔스퀘어 네오 OTF Heavy";
-    src: url("UserFile/NanumSquareNeoOTF-aLt.otf");
+    src: url("NanumSquareNeoOTF-aLt.otf");
 }
